@@ -1,6 +1,5 @@
-# Todo List Project
-
-
+# Todo List site
+### Visit [Live Site](https://to-do-x5.netlify.app)
 ## Features
 - Add your Todo list and be Productive
 - Clear All at a time
